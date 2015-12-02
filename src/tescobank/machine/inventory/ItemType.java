@@ -1,4 +1,4 @@
-package machine.inventory;
+package tescobank.machine.inventory;
 
 /**
  * Created by jacek.maszota on 27.10.2015.

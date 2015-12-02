@@ -1,7 +1,7 @@
-package machine.states;
+package tescobank.machine.states;
 
-import machine.coins.CoinType;
-import machine.inventory.ItemType;
+import tescobank.machine.coins.CoinType;
+import tescobank.machine.inventory.ItemType;
 
 /**
  * Created by jacek.maszota on 27.10.2015.

@@ -1,4 +1,4 @@
-package machine.coins;
+package tescobank.machine.coins;
 
 /**
  * Created by jacek.maszota on 27.10.2015.

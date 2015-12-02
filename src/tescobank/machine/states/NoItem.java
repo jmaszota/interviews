@@ -1,6 +1,6 @@
-package machine.states;
+package tescobank.machine.states;
 
-import machine.VendingMachine;
+import tescobank.machine.VendingMachine;
 
 /**
  * Created by jacek.maszota on 27.10.2015.

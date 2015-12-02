@@ -1,9 +1,9 @@
-package machine.states;
+package tescobank.machine.states;
 
-import machine.CoinsHandler;
-import machine.VendingMachine;
-import machine.coins.CoinType;
-import machine.inventory.ItemType;
+import tescobank.machine.CoinsHandler;
+import tescobank.machine.VendingMachine;
+import tescobank.machine.coins.CoinType;
+import tescobank.machine.inventory.ItemType;
 
 import java.util.Map;
 

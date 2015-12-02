@@ -1,7 +1,7 @@
-package machine.states;
+package tescobank.machine.states;
 
-import machine.VendingMachine;
-import machine.inventory.ItemType;
+import tescobank.machine.VendingMachine;
+import tescobank.machine.inventory.ItemType;
 
 /**
  * Created by jacek.maszota on 27.10.2015.

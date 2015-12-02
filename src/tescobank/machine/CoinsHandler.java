@@ -1,6 +1,6 @@
-package machine;
+package tescobank.machine;
 
-import machine.coins.CoinType;
+import tescobank.machine.coins.CoinType;
 
 import java.math.BigDecimal;
 import java.util.HashMap;

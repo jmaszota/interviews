@@ -1,8 +1,8 @@
-package machine;
+package tescobank.machine;
 
-import machine.coins.CoinType;
-import machine.inventory.Item;
-import machine.inventory.ItemType;
+import tescobank.machine.coins.CoinType;
+import tescobank.machine.inventory.Item;
+import tescobank.machine.inventory.ItemType;
 import org.junit.Test;
 
 import java.util.HashMap;
